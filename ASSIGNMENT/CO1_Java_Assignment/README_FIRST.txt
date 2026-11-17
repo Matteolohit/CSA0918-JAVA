@@ -1,18 +1,3 @@
-CO1 JAVA ASSIGNMENT 1 – REMAINING TASKS 10, 11 AND 12
-=====================================================
-
-This ZIP contains three separate Java projects. Each task folder is independent.
-Use Java 21 (or Java 17+). No external libraries are required.
-
-IMPORTANT
----------
-1. Extract the ZIP.
-2. Open the extracted folder in VS Code.
-3. Open a Terminal in the task folder you want to run.
-4. Run the commands shown below.
-5. Save screenshots of the actual output for each task.
-6. Send the screenshots to ChatGPT to prepare the task Word documents.
-
 TASK 10 – PACKAGES AND ENCAPSULATION
 ------------------------------------
 Folder: Task10_Packages_Encapsulation
@@ -57,8 +42,3 @@ The program demonstrates:
 
 Expected result is recorded in EXPECTED_OUTPUT.txt.
 
-SCREENSHOTS
------------
-For each task, capture the full Terminal output after running the program.
-Do not submit only this ZIP: the assignment also requires your own execution evidence,
-progressive GitHub commits, a README, and a final report.
